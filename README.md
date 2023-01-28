@@ -17,16 +17,9 @@
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
-### Certificates
-- [QA Engineer certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-9288069e-33ca-44eb-8900-16aefaa6072b.jpg)
-- [English Proficiency Certificate](https://www.efset.org/cert/xHw4MS)
-
-
-
 ### Testing Documentation
 
 - [Checklists](Assets/Check-Lists/)
-- [Test-Cases](https://github.com/EasyPlease/Test-Cases)
-- [Bug-Reports](https://github.com/EasyPlease/Bug-reports)
-- [SQL Queries](https://github.com/EasyPlease/SQL-Queries/tree/main)
-- [Postman Collections](https://documenter.getpostman.com/view/21427902/2s8YzZNe4o)
+- [Test-Cases](Assets/Test-Cases/)
+- [Bug-Reports](Assets/Bug-Reports/)
+- [Postman Collections](https://www.postman.com/popivnenkomd/workspace/task-7/request/25456626-9abb555f-5ac5-43e5-8550-2228901d53b5)
