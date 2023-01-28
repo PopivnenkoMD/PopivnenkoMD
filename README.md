@@ -25,7 +25,7 @@
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/EasyPlease/Checklists)
+- [Checklists](Assets/Check-Lists/)
 - [Test-Cases](https://github.com/EasyPlease/Test-Cases)
 - [Bug-Reports](https://github.com/EasyPlease/Bug-reports)
 - [SQL Queries](https://github.com/EasyPlease/SQL-Queries/tree/main)
