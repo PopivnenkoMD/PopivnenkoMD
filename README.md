@@ -1,6 +1,6 @@
 ## I'm a QA Engineer. 
 ## My CV
-[Link to my CV]()
+[Link to my CV](https://www.udemy.com/certificate/UC-c84f5bd1-1e39-44af-8370-967a116aa776/)
 
 
 ### Language and Tools
@@ -23,3 +23,4 @@
 - [Test-Cases](Assets/Test-Cases/)
 - [Bug-Reports](Assets/Bug-Reports/)
 - [Postman Collections](https://www.postman.com/popivnenkomd/workspace/task-7/request/25456626-9abb555f-5ac5-43e5-8550-2228901d53b5)
+- [Web Works](https://github.com/PopivnenkoMD/IntrodutionToWeb)
