@@ -1,6 +1,6 @@
 ## I'm a QA Engineer. 
 ## My CV
-[Link to my CV](https://www.udemy.com/certificate/UC-c84f5bd1-1e39-44af-8370-967a116aa776/)
+[Link to my CV](https://drive.google.com/file/d/1Fta_qptqGdERKMIc8XcDbUn1OInPDIPt/view?usp=share_link)
 
 
 ### Language and Tools
@@ -16,6 +16,11 @@
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
+
+### Certificates
+
+- [QA Engineer certificate](https://www.udemy.com/certificate/UC-c84f5bd1-1e39-44af-8370-967a116aa776/)
+- [English Proficiency Certificate](https://www.efset.org/cert/Z4BXnz)
 
 ### Testing Documentation
 
