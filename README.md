@@ -1,4 +1,4 @@
-## I'm a QA Engineer. 
+## I'm a Junior Software Tester. 
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1Fta_qptqGdERKMIc8XcDbUn1OInPDIPt/view?usp=share_link)
 
