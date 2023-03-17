@@ -16,7 +16,7 @@
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
-
+<a href="https://drive.google.com/file/d/1lAp1bwD2illiF6TGqJIS7D3uxu_fUOqI/view?usp=share_link" target="_blank"></a>
 ### Certificates
 
 - [QA Engineer certificate](https://www.udemy.com/certificate/UC-c84f5bd1-1e39-44af-8370-967a116aa776/)
