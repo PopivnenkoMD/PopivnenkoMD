@@ -1,6 +1,7 @@
 ## I'm a Junior Software Tester. 
 ## My CV
-[Link to my CV (ENG)](https://drive.google.com/file/d/11H_V9cdS4cz4fx9CKOnPkqHSaC-CObYh/view?usp=share_link)
+[Link to my CV (ENG)](https://drive.google.com/file/d/11H_V9cdS4cz4fx9CKOnPkqHSaC-CObYh/view?usp=share_link) <br>
+
 [Link to my CV (RUS)](https://drive.google.com/file/d/1lAp1bwD2illiF6TGqJIS7D3uxu_fUOqI/view?usp=share_link)
 
 
